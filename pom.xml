@@ -8,6 +8,11 @@
     <groupId>com.manojkhannakm.reflectionexplorer</groupId>
     <artifactId>ReflectionExplorer</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <modules>
+        <module>Test</module>
+    </modules>
 
     <build>
         <plugins>
