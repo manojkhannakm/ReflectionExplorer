@@ -1,7 +1,7 @@
 package com.manojkhannakm.reflectionexplorer;
 
-import com.manojkhannakm.reflectionexplorer.swing.Frame;
 import com.manojkhannakm.reflectionexplorer.loader.ClassLoaderInterface;
+import com.manojkhannakm.reflectionexplorer.swing.Frame;
 
 import javax.swing.*;
 import java.util.Arrays;
