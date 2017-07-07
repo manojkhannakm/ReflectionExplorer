@@ -2,7 +2,7 @@
   <artifact type="jar" name="ReflectionExplorer:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/ReflectionExplorer_jar</output-path>
     <root id="archive" name="ReflectionExplorer.jar">
-      <element id="module-output" name="ReflectionExplorer" />
+      <element id="module-output" name="reflection-explorer" />
     </root>
   </artifact>
 </component>

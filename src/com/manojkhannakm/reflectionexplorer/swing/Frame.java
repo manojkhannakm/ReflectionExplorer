@@ -1,9 +1,9 @@
 package com.manojkhannakm.reflectionexplorer.swing;
 
+import com.manojkhannakm.reflectionexplorer.loader.ClassLoaderInterface;
 import com.manojkhannakm.reflectionexplorer.loader.URLClassLoader;
 import com.manojkhannakm.reflectionexplorer.swing.tab.ExploreTab;
 import com.manojkhannakm.reflectionexplorer.swing.tab.SearchTab;
-import com.manojkhannakm.reflectionexplorer.loader.ClassLoaderInterface;
 
 import javax.swing.*;
 import java.awt.*;
