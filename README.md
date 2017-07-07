@@ -1,4 +1,4 @@
-# ReflectionExplorer
+# Reflection Explorer
 
 ### Introduction
 
